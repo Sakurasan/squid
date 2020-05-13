@@ -111,4 +111,5 @@ vim squid-simple.conf
 参考:
 - https://segmentfault.com/a/1190000014388375#item-5
 - https://www.cnblogs.com/wangxiaoqiangs/p/5796624.html
+- https://www.thegeekdiary.com/the-squid-service-in-failed-state-with-error-failed-to-make-swap-directory-var-spool-squid-00-13-permission-denied/
 
